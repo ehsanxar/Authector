@@ -45,4 +45,4 @@ Or open `Authector.slnx` in Visual Studio 2022+.
 
 ## Author
 
-[@ehsanlax](https://www.instagram.com/ehsanlax/)
+[@ehsanlax](https://www.instagram.com/ehsanxar/)
